@@ -1,0 +1,26 @@
+{
+  "alunos": [
+    {
+      "nome": "João Santos",
+      "telefone": "11999999999"
+    },
+    {
+      "nome": "Fernanda",
+      "telefone": "12365465789"
+    }
+  ],
+  "professores": [
+    {
+      "nome": "Ana Oliveira",
+      "telefone": "11923456789"
+    },
+    {
+      "nome": "Jorge Carneiro",
+      "telefone": "199987987"
+    },
+    {
+      "nome": "Enzo Basani",
+      "telefone": "19996335291"
+    }
+  ]
+}
